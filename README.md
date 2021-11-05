@@ -16,6 +16,6 @@ Recommend the similar product/item/apparel in e-commerce based on Product discri
 6. title (title of the product.)
 7. formatted_price (price of the product)
 
-## Procedure
+## Conclusion
 - Implemented NLP technique (BoW, Tf-IDF, W2V) to convert the text features to numerical vectors.
 - Calculated cosine distance between apparels and recommended top 20 apparels very similar to query item
