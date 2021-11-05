@@ -1,11 +1,11 @@
-# Amazon-fashion-discovery-engine-using-Recommendation-system
+# Amazon Apparel Recommendation-Content-Based Recommendation
 
 ## Problem statement :
 Recommend the similar product/item/apparel in e-commerce based on Product discription and images.
 
 ## Data overview
-tops_fashion.json (250MB file of all product data)
-200 images (16k images file)
+- tops_fashion.json (250MB file of all product data)
+- 200 images (16k images file)
 
 ## Of these 19 features, we will be using only 7 features in this case-study.
 1. asin ( Amazon standard identification number)
