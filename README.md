@@ -15,3 +15,7 @@ tops_fashion.json (250MB file of all product data)
 5. medium_image_url ( url of the image )
 6. title (title of the product.)
 7. formatted_price (price of the product)
+
+## Procedure
+- Implemented NLP technique (BoW, Tf-IDF, W2V) to convert the text features to numerical vectors.
+- Calculated cosine distance between apparels and recommended top 20 apparels very similar to query item
